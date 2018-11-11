@@ -12,7 +12,7 @@ export default class AddPlayer extends React.Component {
             name="playerName"
             placeholder="Player name"
           />
-          <button className="button">Add button</button>
+          <button className="button">Add</button>
         </form>
       </div>
     );
